@@ -49,5 +49,5 @@ if selected_mbti:
 
 # 🧭 하단 푸터
 st.markdown("___")
-st.markdown("Made with ❤️ by [당신의 이름]")
+st.markdown("Made with ❤️ by [haexn]")
 
